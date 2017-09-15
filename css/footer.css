@@ -1,0 +1,84 @@
+/*------------------------网页尾部---------------------------------*/ 
+            #bottom{
+            	height: 372px;
+            	background: #444444;
+            }   
+            #bottom .bottom_box{
+            	width: 1031px;
+            	height: 372px;
+            	padding-left: 115px;
+            }  
+            #bottom .bottom_box .end_0{
+            	width: 1031px;
+            	height: 22px;
+            }   
+            #bottom .bottom_box .end_1{
+            	width: 1031px;
+            	height: 286px;
+            } 
+            #bottom .bottom_box .end_2{
+            	width: 1031px;
+            	height: 86px;
+            }  
+            #bottom .bottom_box .end_1 .over1{
+            	width: 218px;
+            	height: 265px;
+            }
+            #bottom .bottom_box .end_1 h5{
+            	display: block;
+            	color: #FFFFFF;
+            	width: 70px;
+            	height: 24px;
+            	background: url(img/xiaotu.jpg) no-repeat right;
+            }
+            #bottom .bottom_box .end_1  ul{
+            	padding-top: 20px;
+            }
+            #bottom .bottom_box .end_1 div{
+            	float: left;
+            }
+            #bottom .bottom_box .end_1  ul li{           	
+            	padding-bottom: 12px;
+            }
+            #bottom .bottom_box .end_1  ul li a{
+            	color: #FFFFFF;
+            	font-size: 12px;
+            }
+            #bottom .bottom_box .end_1  ul li a:hover{
+            	color: green;
+            }
+            
+            
+            #bottom .bottom_box .end_1 .over2{
+            	width: 220px;
+            	height: 265px;
+            }
+            #bottom .bottom_box .end_1 .over3{
+            	width: 219px;
+            	height: 265px;
+            }
+            #bottom .bottom_box .end_1 .over4{
+            	width: 219px;
+            	height: 265px;
+            }
+            #bottom .bottom_box .end_1 .sm{
+            	display: block;
+            	color: #FFFFFF;
+            	width: 108px;
+            	height: 25px;
+            	background: url(img/xiaotu.jpg) no-repeat right;
+            }
+            #bottom .bottom_box .end_1 .over5 img{
+            	width: 108px;
+            	height: 110px;
+            	padding: 30px 0 0 5px;
+            }
+            #bottom .bottom_box .end_2 div p{
+            	color: #FFFFFF;
+            	font-size: 10px ;
+            	text-align: center;
+            }
+            #bottom .bottom_box .end_2 div p a{
+            	color: #FFFFFF;
+            }
+            #bottom .bottom_box .end_2 div p:nth-child(2){

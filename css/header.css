@@ -1,0 +1,251 @@
+
+/*----------------------*/			
+#header{
+				margin: 0;
+				width: 1263px;
+				height: 123px;
+				margin: 0 auto;
+			}
+			.top_left{
+				width: 257px;
+				padding-top: 30px;
+				padding-left: 125px;
+				float: left;
+			}
+			.search,.btn{
+				border: none;
+			}
+			.top_right{
+				width: 307px;
+				float: right;
+				padding: 46px 410px 0 0;
+			}
+			.lab{
+				font-size: 12px;
+				color: #FF0000;
+			}
+			.lab1,.lab2{
+				width: 60px;
+				height: 25px;
+				display: inline-block;
+				background: #04B4AE;
+				float: left;
+				text-align: center;
+				line-height: 25px;
+				font-size: 12px;
+				color: #FFFFFF;
+			}
+			.lab2{
+				background: #ffffff;
+				color: #666666;
+			}
+			.top_1{
+				width: 307px;
+				height: 30px;
+			}
+			.search{
+				padding: 0 0 0 8px;
+				width: 230px;
+				height: 26px;
+				border: 2px solid #04B4AE;
+				float: left;
+			}
+			.btn{
+				width: 65px;
+				height: 30px;
+				background: #04b4ae;
+				float: left;
+				color: #FFFFFF;
+			}
+/*------------------------导航---------------------------------*/		
+            .navigetion .nav_top{
+            	height: 15px;
+            }
+            .navigetion .nav_bottom{
+            	width: 100%;
+            	height: 26px;
+            }
+            .navigetion .nav_bottom .nav_bottom1{
+            	width: 1263px;
+            	height: 26px;
+            	margin: 0 auto;
+            }
+            .nav_top>ul li{
+            	float: left;
+            }	
+            .nav_top>ul li:nth-child(2){
+            	padding-left:9px ;
+            	color: #444444;
+            	background-image: none;
+            }
+            .nav_top>ul li:nth-child(1){
+            	padding-right: 9px;
+            	color: #444444;	
+            }
+        
+            .nav_top>ul>li a{
+            	color: #444444;
+            }
+            .nav_top ul{
+            	width: 78px;
+            	height: 15px;
+            	float: right;
+            	padding-right: 85px;
+            	font-size: 12px;
+            }
+            .nav_bottom1 .navlei{
+            	width: 562px;
+            	height: 26px;
+            	padding-left: 96px;
+            }
+            .nav_bottom1 .navlei>li{
+            	float: left;
+            	font-size: 14px;
+            	font-weight: bolder;
+                padding: 0 22px 0 22px; 
+            }
+            .nav_bottom1 .navlei .di a{
+            	color: #444444;
+            }
+            
+            .nav_bottom1 .navlei .di{
+            	position: relative;
+            }
+           
+            .nav_bottom1 .navlei .di .leib1{
+            	left: -29px;
+			    position: absolute;
+			    width: 630px;
+			    height: 417px;
+			    background: #ffffff;
+			    z-index: 50;
+			    top: 18px;
+			    display: none;
+            }
+            
+            .nav_bottom1 .navlei .di2{
+            	position: relative;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box1 #le1 {
+            	font-size: 13px;
+			    width: 150px;
+			    height: 399px;
+			    margin: 12px 0 0 103px;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box1 #le1 li{
+            	padding: 0 0 35px 0;
+            }
+            .nav_bottom1 .navlei .di .leib1  a:hover{
+            	text-decoration: underline;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box1 #le1 li .hong_a{
+            	color: red;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box2 ul li .hong_a{
+            	color: red;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box1 #le1 li .pt{
+            	color: #a1a0a0;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box1 #le1 li:nth-child(2){
+            	background: url(../img/leibiaotu.jpg) no-repeat 0px 39px;
+            }	
+            .nav_bottom1 .navlei .di .leib1 .lei_box1 #le1 li h5{
+            	color: #857e7a;
+            	font-size: 13px;
+            }
+            .nav_bottom1 .navlei li .leib1 .lei_box1{
+			    width: 262px;
+			    height: 410px;
+			    float: left;
+			    overflow: hidden;
+			    background: url(../img/leiyou.jpg) no-repeat right;
+            }
+            .nav_bottom1 .navlei .di:hover .leib1{
+            	display: block;
+            }
+            .nav_bottom1 ul li .leib1 .lei_box2{
+            	float: left;
+            	font-size: 13px;
+			    width: 150px;
+			    height: 399px;
+			    margin: 12px 0 0 50px;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box2 ul li .pt{
+            	color: #979696;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box2 ul li:nth-child(1){
+            	font-size: 13px;
+            	background: url(../img/leibiaotu.jpg) no-repeat 0px 39px;
+            	color: #706a67;
+            }
+            .nav_bottom1 .navlei .di .leib1 .lei_box2 ul li{
+            	padding: 0 0 35px 0;  	
+            }
+ /*===================列表2========================*/           
+            .nav_bottom1 .navlei .di2 .leib2{
+            	left: -39px;
+			    position: absolute;
+			    width: 630px;
+			    height: 417px;
+			    background: #ffffff;
+			    z-index: 50;
+			    top: 18px;
+			    display: none; 	
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box1 #le1 {
+            	font-size: 13px;
+			    width: 150px;
+			    height: 399px;
+			    margin: 12px 0 0 103px;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box1 #le1 li{
+            	padding: 0 0 35px 0;
+            }
+            .nav_bottom1 .navlei .di2 .leib2  a:hover{
+            	text-decoration: underline;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box1 #le1 li .hong_a{
+            	color: red;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box2 ul li .hong_a{
+            	color: red;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box1 #le1 li .pt{
+            	color: #a1a0a0;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box1 #le1 li:nth-child(2){
+            	background: url(../img/leibiaotu.jpg) no-repeat 0px 39px;
+            }	
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box1 #le1 li h5{
+            	color: #857e7a;
+            	font-size: 13px;
+            }
+            .nav_bottom1 .navlei li .leib2 .lei_box1{
+			    width: 262px;
+			    height: 410px;
+			    float: left;
+			    overflow: hidden;
+			    background: url(../img/leiyou.jpg) no-repeat right;
+            }
+            .nav_bottom1 .navlei .di2:hover .leib2{
+            	display: block;
+            }
+            .nav_bottom1 ul li .leib2 .lei_box2{
+            	float: left;
+            	font-size: 13px;
+			    width: 150px;
+			    height: 399px;
+			    margin: 12px 0 0 50px;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box2 ul li .pt{
+            	color: #979696;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box2 ul li:nth-child(1){
+            	font-size: 13px;
+            	background: url(../img/leibiaotu.jpg) no-repeat 0px 39px;
+            	color: #706a67;
+            }
+            .nav_bottom1 .navlei .di2 .leib2 .lei_box2 ul li{
+            	padding: 0 0 35px 0;  	
+            }
